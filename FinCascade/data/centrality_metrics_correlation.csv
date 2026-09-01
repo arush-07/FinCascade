@@ -1,0 +1,27 @@
+ticker,name,sector,degree_centrality,betweenness_centrality
+^NSEI,NIFTY 50,Market,0.72,0.2595
+^NSEBANK,Bank Nifty,Banking,0.52,0.029500000000000002
+INR=X,USD/INR,Macro,0.0,0.0
+CL=F,Crude Oil,Energy,0.0,0.0
+GC=F,Gold,Safe Haven,0.0,0.0
+HDFCBANK.NS,HDFC Bank,Banking,0.32,0.0
+ICICIBANK.NS,ICICI Bank,Banking,0.32,0.0
+SBIN.NS,SBI,Banking,0.44,0.011222222222222224
+AXISBANK.NS,Axis Bank,Banking,0.32,0.0
+TCS.NS,TCS,IT,0.16,0.0
+INFY.NS,Infosys,IT,0.16,0.0
+HCLTECH.NS,HCL Tech,IT,0.16,0.0
+WIPRO.NS,Wipro,IT,0.16,0.0
+RELIANCE.NS,Reliance,Energy,0.16,0.0
+ONGC.NS,ONGC,Energy,0.0,0.0
+TMPV.NS,Tata Motors Passenger Vehicles,Auto,0.28,0.004388888888888889
+M&M.NS,Mahindra & Mahindra,Auto,0.24,0.0025
+MARUTI.NS,Maruti Suzuki,Auto,0.16,0.0
+DLF.NS,DLF,Realty,0.48,0.016999999999999998
+GODREJPROP.NS,Godrej Properties,Realty,0.28,0.0012222222222222222
+SUNPHARMA.NS,Sun Pharma,Pharma,0.0,0.0
+DRREDDY.NS,Dr Reddy's,Pharma,0.0,0.0
+HINDUNILVR.NS,Hindustan Unilever,FMCG,0.0,0.0
+ITC.NS,ITC,FMCG,0.04,0.0
+BAJFINANCE.NS,Bajaj Finance,NBFC,0.36,0.0016666666666666668
+BAJAJFINSV.NS,Bajaj Finserv,NBFC,0.4,0.006333333333333333

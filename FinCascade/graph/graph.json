@@ -1,0 +1,1816 @@
+{
+    "nodes": [
+        {
+            "id": "^NSEI",
+            "name": "NIFTY 50",
+            "type": "Index",
+            "sector": "Market",
+            "in_degree": 0.72,
+            "out_degree": 0.76,
+            "betweenness": 0.26951587301587304,
+            "pagerank": 0.12583739808683647
+        },
+        {
+            "id": "^NSEBANK",
+            "name": "Bank Nifty",
+            "type": "Index",
+            "sector": "Banking",
+            "in_degree": 0.52,
+            "out_degree": 0.56,
+            "betweenness": 0.031182539682539683,
+            "pagerank": 0.08553836506645088
+        },
+        {
+            "id": "INR=X",
+            "name": "USD/INR",
+            "type": "Currency",
+            "sector": "Macro",
+            "in_degree": 0.4,
+            "out_degree": 0.0,
+            "betweenness": 0.0,
+            "pagerank": 0.021620932326104448
+        },
+        {
+            "id": "CL=F",
+            "name": "Crude Oil",
+            "type": "Commodity",
+            "sector": "Energy",
+            "in_degree": 0.0,
+            "out_degree": 0.08,
+            "betweenness": 0.0,
+            "pagerank": 0.007818975666309997
+        },
+        {
+            "id": "GC=F",
+            "name": "Gold",
+            "type": "Commodity",
+            "sector": "Safe Haven",
+            "in_degree": 0.0,
+            "out_degree": 0.08,
+            "betweenness": 0.0,
+            "pagerank": 0.007818975666309997
+        },
+        {
+            "id": "HDFCBANK.NS",
+            "name": "HDFC Bank",
+            "type": "Company",
+            "sector": "Banking",
+            "in_degree": 0.32,
+            "out_degree": 0.36,
+            "betweenness": 0.0007936507936507937,
+            "pagerank": 0.04620294404706444
+        },
+        {
+            "id": "ICICIBANK.NS",
+            "name": "ICICI Bank",
+            "type": "Company",
+            "sector": "Banking",
+            "in_degree": 0.32,
+            "out_degree": 0.32,
+            "betweenness": 0.0,
+            "pagerank": 0.04949633830041659
+        },
+        {
+            "id": "SBIN.NS",
+            "name": "SBI",
+            "type": "Company",
+            "sector": "Banking",
+            "in_degree": 0.44,
+            "out_degree": 0.48,
+            "betweenness": 0.012015873015873015,
+            "pagerank": 0.06024188284670042
+        },
+        {
+            "id": "AXISBANK.NS",
+            "name": "Axis Bank",
+            "type": "Company",
+            "sector": "Banking",
+            "in_degree": 0.32,
+            "out_degree": 0.32,
+            "betweenness": 0.0,
+            "pagerank": 0.04706722091102662
+        },
+        {
+            "id": "TCS.NS",
+            "name": "TCS",
+            "type": "Company",
+            "sector": "IT",
+            "in_degree": 0.16,
+            "out_degree": 0.16,
+            "betweenness": 0.0,
+            "pagerank": 0.03964358612704363
+        },
+        {
+            "id": "INFY.NS",
+            "name": "Infosys",
+            "type": "Company",
+            "sector": "IT",
+            "in_degree": 0.16,
+            "out_degree": 0.16,
+            "betweenness": 0.0,
+            "pagerank": 0.040488851998430206
+        },
+        {
+            "id": "HCLTECH.NS",
+            "name": "HCL Tech",
+            "type": "Company",
+            "sector": "IT",
+            "in_degree": 0.16,
+            "out_degree": 0.16,
+            "betweenness": 0.0,
+            "pagerank": 0.038935685326622595
+        },
+        {
+            "id": "WIPRO.NS",
+            "name": "Wipro",
+            "type": "Company",
+            "sector": "IT",
+            "in_degree": 0.16,
+            "out_degree": 0.16,
+            "betweenness": 0.0,
+            "pagerank": 0.03766902806324323
+        },
+        {
+            "id": "RELIANCE.NS",
+            "name": "Reliance",
+            "type": "Company",
+            "sector": "Energy",
+            "in_degree": 0.16,
+            "out_degree": 0.2,
+            "betweenness": 0.0,
+            "pagerank": 0.026244207292623632
+        },
+        {
+            "id": "ONGC.NS",
+            "name": "ONGC",
+            "type": "Company",
+            "sector": "Energy",
+            "in_degree": 0.08,
+            "out_degree": 0.0,
+            "betweenness": 0.0,
+            "pagerank": 0.01533168282635125
+        },
+        {
+            "id": "TMPV.NS",
+            "name": "Tata Motors Passenger Vehicles",
+            "type": "Company",
+            "sector": "Auto",
+            "in_degree": 0.28,
+            "out_degree": 0.32,
+            "betweenness": 0.005277777777777778,
+            "pagerank": 0.03995040880943358
+        },
+        {
+            "id": "M&M.NS",
+            "name": "Mahindra & Mahindra",
+            "type": "Company",
+            "sector": "Auto",
+            "in_degree": 0.24,
+            "out_degree": 0.24,
+            "betweenness": 0.0025,
+            "pagerank": 0.036077987469946164
+        },
+        {
+            "id": "MARUTI.NS",
+            "name": "Maruti Suzuki",
+            "type": "Company",
+            "sector": "Auto",
+            "in_degree": 0.16,
+            "out_degree": 0.16,
+            "betweenness": 0.0,
+            "pagerank": 0.02590911844894784
+        },
+        {
+            "id": "DLF.NS",
+            "name": "DLF",
+            "type": "Company",
+            "sector": "Realty",
+            "in_degree": 0.48,
+            "out_degree": 0.52,
+            "betweenness": 0.018126984126984127,
+            "pagerank": 0.06610708968672305
+        },
+        {
+            "id": "GODREJPROP.NS",
+            "name": "Godrej Properties",
+            "type": "Company",
+            "sector": "Realty",
+            "in_degree": 0.28,
+            "out_degree": 0.32,
+            "betweenness": 0.0014603174603174604,
+            "pagerank": 0.03971415309736912
+        },
+        {
+            "id": "SUNPHARMA.NS",
+            "name": "Sun Pharma",
+            "type": "Company",
+            "sector": "Pharma",
+            "in_degree": 0.0,
+            "out_degree": 0.0,
+            "betweenness": 0.0,
+            "pagerank": 0.007818975666309997
+        },
+        {
+            "id": "DRREDDY.NS",
+            "name": "Dr Reddy's",
+            "type": "Company",
+            "sector": "Pharma",
+            "in_degree": 0.0,
+            "out_degree": 0.0,
+            "betweenness": 0.0,
+            "pagerank": 0.007818975666309997
+        },
+        {
+            "id": "HINDUNILVR.NS",
+            "name": "Hindustan Unilever",
+            "type": "Company",
+            "sector": "FMCG",
+            "in_degree": 0.04,
+            "out_degree": 0.0,
+            "betweenness": 0.0,
+            "pagerank": 0.010107774865995012
+        },
+        {
+            "id": "ITC.NS",
+            "name": "ITC",
+            "type": "Company",
+            "sector": "FMCG",
+            "in_degree": 0.04,
+            "out_degree": 0.04,
+            "betweenness": 0.0,
+            "pagerank": 0.012200621570275821
+        },
+        {
+            "id": "BAJFINANCE.NS",
+            "name": "Bajaj Finance",
+            "type": "Company",
+            "sector": "NBFC",
+            "in_degree": 0.36,
+            "out_degree": 0.36,
+            "betweenness": 0.0016666666666666668,
+            "pagerank": 0.049871096272137386
+        },
+        {
+            "id": "BAJAJFINSV.NS",
+            "name": "Bajaj Finserv",
+            "type": "Company",
+            "sector": "NBFC",
+            "in_degree": 0.4,
+            "out_degree": 0.44,
+            "betweenness": 0.0074603174603174605,
+            "pagerank": 0.05446772389501766
+        }
+    ],
+    "edges": [
+        {
+            "source": "^NSEI",
+            "target": "^NSEBANK",
+            "weight": 0.8710093754026812,
+            "relationship_type": "correlation",
+            "correlation": 0.8710093754026812,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "^NSEI",
+            "target": "HDFCBANK.NS",
+            "weight": 0.7102698125738366,
+            "relationship_type": "correlation",
+            "correlation": 0.7102698125738366,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "^NSEI",
+            "target": "ICICIBANK.NS",
+            "weight": 0.6853422189371944,
+            "relationship_type": "correlation",
+            "correlation": 0.6853422189371944,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "^NSEI",
+            "target": "RELIANCE.NS",
+            "weight": 0.6757367216336178,
+            "relationship_type": "correlation",
+            "correlation": 0.6757367216336178,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "^NSEI",
+            "target": "DLF.NS",
+            "weight": 0.6646746683758347,
+            "relationship_type": "correlation",
+            "correlation": 0.6646746683758347,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "^NSEI",
+            "target": "SBIN.NS",
+            "weight": 0.6511635479532141,
+            "relationship_type": "correlation",
+            "correlation": 0.6511635479532141,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "^NSEI",
+            "target": "BAJAJFINSV.NS",
+            "weight": 0.6364417700966231,
+            "relationship_type": "correlation",
+            "correlation": 0.6364417700966231,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "^NSEI",
+            "target": "BAJFINANCE.NS",
+            "weight": 0.6273961007555183,
+            "relationship_type": "correlation",
+            "correlation": 0.6273961007555183,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "^NSEI",
+            "target": "AXISBANK.NS",
+            "weight": 0.6234557890912761,
+            "relationship_type": "correlation",
+            "correlation": 0.6234557890912761,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "^NSEI",
+            "target": "M&M.NS",
+            "weight": 0.5875194839192771,
+            "relationship_type": "correlation",
+            "correlation": 0.5875194839192771,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "^NSEI",
+            "target": "GODREJPROP.NS",
+            "weight": 0.5790139165822273,
+            "relationship_type": "correlation",
+            "correlation": 0.5790139165822273,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "^NSEI",
+            "target": "TMPV.NS",
+            "weight": 0.572079068750883,
+            "relationship_type": "correlation",
+            "correlation": 0.572079068750883,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "^NSEI",
+            "target": "WIPRO.NS",
+            "weight": 0.5277434950499413,
+            "relationship_type": "correlation",
+            "correlation": 0.5277434950499413,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "^NSEI",
+            "target": "INFY.NS",
+            "weight": 0.5172992203315149,
+            "relationship_type": "correlation",
+            "correlation": 0.5172992203315149,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "^NSEI",
+            "target": "MARUTI.NS",
+            "weight": 0.512368391886644,
+            "relationship_type": "correlation",
+            "correlation": 0.512368391886644,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "^NSEI",
+            "target": "TCS.NS",
+            "weight": 0.4954410470058159,
+            "relationship_type": "correlation",
+            "correlation": 0.4954410470058159,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "^NSEI",
+            "target": "HCLTECH.NS",
+            "weight": 0.4869955571379644,
+            "relationship_type": "correlation",
+            "correlation": 0.4869955571379644,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "^NSEI",
+            "target": "ITC.NS",
+            "weight": 0.4516433517217829,
+            "relationship_type": "correlation",
+            "correlation": 0.4516433517217829,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "^NSEI",
+            "target": "INR=X",
+            "weight": 0.14967329325237838,
+            "relationship_type": "lagged",
+            "correlation": null,
+            "lag_strength": 0.14967329325237838,
+            "lag_correlation": -0.14967329325237838,
+            "best_lag": 1
+        },
+        {
+            "source": "^NSEBANK",
+            "target": "^NSEI",
+            "weight": 0.8710093754026812,
+            "relationship_type": "correlation",
+            "correlation": 0.8710093754026812,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "^NSEBANK",
+            "target": "ICICIBANK.NS",
+            "weight": 0.8107654320760751,
+            "relationship_type": "correlation",
+            "correlation": 0.8107654320760751,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "^NSEBANK",
+            "target": "HDFCBANK.NS",
+            "weight": 0.7897290090838442,
+            "relationship_type": "correlation",
+            "correlation": 0.7897290090838442,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "^NSEBANK",
+            "target": "SBIN.NS",
+            "weight": 0.7520125031024422,
+            "relationship_type": "correlation",
+            "correlation": 0.7520125031024422,
+            "lag_strength": 0.1159061658064732,
+            "lag_correlation": 0.1159061658064732,
+            "best_lag": 4
+        },
+        {
+            "source": "^NSEBANK",
+            "target": "AXISBANK.NS",
+            "weight": 0.7499013589094095,
+            "relationship_type": "correlation",
+            "correlation": 0.7499013589094095,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "^NSEBANK",
+            "target": "DLF.NS",
+            "weight": 0.6121201119926072,
+            "relationship_type": "correlation",
+            "correlation": 0.6121201119926072,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "^NSEBANK",
+            "target": "BAJFINANCE.NS",
+            "weight": 0.5806579870600905,
+            "relationship_type": "correlation",
+            "correlation": 0.5806579870600905,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "^NSEBANK",
+            "target": "BAJAJFINSV.NS",
+            "weight": 0.5745560766334992,
+            "relationship_type": "correlation",
+            "correlation": 0.5745560766334992,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "^NSEBANK",
+            "target": "GODREJPROP.NS",
+            "weight": 0.4991604001302331,
+            "relationship_type": "correlation",
+            "correlation": 0.4991604001302331,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "^NSEBANK",
+            "target": "RELIANCE.NS",
+            "weight": 0.4919394606729866,
+            "relationship_type": "correlation",
+            "correlation": 0.4919394606729866,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "^NSEBANK",
+            "target": "M&M.NS",
+            "weight": 0.4914602709114511,
+            "relationship_type": "correlation",
+            "correlation": 0.4914602709114511,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "^NSEBANK",
+            "target": "TMPV.NS",
+            "weight": 0.46662919020636956,
+            "relationship_type": "correlation",
+            "correlation": 0.46662919020636956,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "^NSEBANK",
+            "target": "MARUTI.NS",
+            "weight": 0.42767618872949487,
+            "relationship_type": "correlation",
+            "correlation": 0.42767618872949487,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "^NSEBANK",
+            "target": "INR=X",
+            "weight": 0.1296102035106274,
+            "relationship_type": "lagged",
+            "correlation": null,
+            "lag_strength": 0.1296102035106274,
+            "lag_correlation": -0.1296102035106274,
+            "best_lag": 1
+        },
+        {
+            "source": "CL=F",
+            "target": "ONGC.NS",
+            "weight": 0.24724715493481883,
+            "relationship_type": "lagged",
+            "correlation": null,
+            "lag_strength": 0.24724715493481883,
+            "lag_correlation": 0.24724715493481883,
+            "best_lag": 1
+        },
+        {
+            "source": "CL=F",
+            "target": "HINDUNILVR.NS",
+            "weight": 0.129873216294936,
+            "relationship_type": "lagged",
+            "correlation": null,
+            "lag_strength": 0.129873216294936,
+            "lag_correlation": -0.129873216294936,
+            "best_lag": 1
+        },
+        {
+            "source": "GC=F",
+            "target": "INR=X",
+            "weight": 0.12622955124237248,
+            "relationship_type": "lagged",
+            "correlation": null,
+            "lag_strength": 0.12622955124237248,
+            "lag_correlation": -0.12622955124237248,
+            "best_lag": 1
+        },
+        {
+            "source": "GC=F",
+            "target": "ONGC.NS",
+            "weight": 0.11410308740635179,
+            "relationship_type": "lagged",
+            "correlation": null,
+            "lag_strength": 0.11410308740635179,
+            "lag_correlation": 0.11410308740635179,
+            "best_lag": 1
+        },
+        {
+            "source": "HDFCBANK.NS",
+            "target": "^NSEBANK",
+            "weight": 0.7897290090838442,
+            "relationship_type": "correlation",
+            "correlation": 0.7897290090838442,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "HDFCBANK.NS",
+            "target": "^NSEI",
+            "weight": 0.7102698125738366,
+            "relationship_type": "correlation",
+            "correlation": 0.7102698125738366,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "HDFCBANK.NS",
+            "target": "ICICIBANK.NS",
+            "weight": 0.5388214372727272,
+            "relationship_type": "correlation",
+            "correlation": 0.5388214372727272,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "HDFCBANK.NS",
+            "target": "AXISBANK.NS",
+            "weight": 0.46021215446993713,
+            "relationship_type": "correlation",
+            "correlation": 0.46021215446993713,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "HDFCBANK.NS",
+            "target": "BAJFINANCE.NS",
+            "weight": 0.43779330870808497,
+            "relationship_type": "correlation",
+            "correlation": 0.43779330870808497,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "HDFCBANK.NS",
+            "target": "SBIN.NS",
+            "weight": 0.43236684060620434,
+            "relationship_type": "correlation",
+            "correlation": 0.43236684060620434,
+            "lag_strength": 0.10190651474902625,
+            "lag_correlation": 0.10190651474902625,
+            "best_lag": 4
+        },
+        {
+            "source": "HDFCBANK.NS",
+            "target": "DLF.NS",
+            "weight": 0.41176263820050274,
+            "relationship_type": "correlation",
+            "correlation": 0.41176263820050274,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "HDFCBANK.NS",
+            "target": "BAJAJFINSV.NS",
+            "weight": 0.4064743926071697,
+            "relationship_type": "correlation",
+            "correlation": 0.4064743926071697,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "HDFCBANK.NS",
+            "target": "INR=X",
+            "weight": 0.10384266864875427,
+            "relationship_type": "lagged",
+            "correlation": null,
+            "lag_strength": 0.10384266864875427,
+            "lag_correlation": -0.10384266864875427,
+            "best_lag": 1
+        },
+        {
+            "source": "ICICIBANK.NS",
+            "target": "^NSEBANK",
+            "weight": 0.8107654320760751,
+            "relationship_type": "correlation",
+            "correlation": 0.8107654320760751,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "ICICIBANK.NS",
+            "target": "^NSEI",
+            "weight": 0.6853422189371944,
+            "relationship_type": "correlation",
+            "correlation": 0.6853422189371944,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "ICICIBANK.NS",
+            "target": "AXISBANK.NS",
+            "weight": 0.613454040601047,
+            "relationship_type": "correlation",
+            "correlation": 0.613454040601047,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "ICICIBANK.NS",
+            "target": "SBIN.NS",
+            "weight": 0.5482105476938813,
+            "relationship_type": "correlation",
+            "correlation": 0.5482105476938813,
+            "lag_strength": 0.10418802554054314,
+            "lag_correlation": 0.10418802554054314,
+            "best_lag": 4
+        },
+        {
+            "source": "ICICIBANK.NS",
+            "target": "HDFCBANK.NS",
+            "weight": 0.5388214372727272,
+            "relationship_type": "correlation",
+            "correlation": 0.5388214372727272,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "ICICIBANK.NS",
+            "target": "DLF.NS",
+            "weight": 0.46117166256674597,
+            "relationship_type": "correlation",
+            "correlation": 0.46117166256674597,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "ICICIBANK.NS",
+            "target": "BAJAJFINSV.NS",
+            "weight": 0.4495208552078728,
+            "relationship_type": "correlation",
+            "correlation": 0.4495208552078728,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "ICICIBANK.NS",
+            "target": "BAJFINANCE.NS",
+            "weight": 0.4487210247528731,
+            "relationship_type": "correlation",
+            "correlation": 0.4487210247528731,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "SBIN.NS",
+            "target": "^NSEBANK",
+            "weight": 0.7520125031024422,
+            "relationship_type": "correlation",
+            "correlation": 0.7520125031024422,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "SBIN.NS",
+            "target": "^NSEI",
+            "weight": 0.6511635479532141,
+            "relationship_type": "correlation",
+            "correlation": 0.6511635479532141,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "SBIN.NS",
+            "target": "DLF.NS",
+            "weight": 0.5517564105983596,
+            "relationship_type": "correlation",
+            "correlation": 0.5517564105983596,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "SBIN.NS",
+            "target": "ICICIBANK.NS",
+            "weight": 0.5482105476938813,
+            "relationship_type": "correlation",
+            "correlation": 0.5482105476938813,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "SBIN.NS",
+            "target": "AXISBANK.NS",
+            "weight": 0.545243903864372,
+            "relationship_type": "correlation",
+            "correlation": 0.545243903864372,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "SBIN.NS",
+            "target": "GODREJPROP.NS",
+            "weight": 0.43528416724515245,
+            "relationship_type": "correlation",
+            "correlation": 0.43528416724515245,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "SBIN.NS",
+            "target": "BAJFINANCE.NS",
+            "weight": 0.4352362745415217,
+            "relationship_type": "correlation",
+            "correlation": 0.4352362745415217,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "SBIN.NS",
+            "target": "HDFCBANK.NS",
+            "weight": 0.43236684060620434,
+            "relationship_type": "correlation",
+            "correlation": 0.43236684060620434,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "SBIN.NS",
+            "target": "BAJAJFINSV.NS",
+            "weight": 0.43170338790305524,
+            "relationship_type": "correlation",
+            "correlation": 0.43170338790305524,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "SBIN.NS",
+            "target": "RELIANCE.NS",
+            "weight": 0.4124883253960458,
+            "relationship_type": "correlation",
+            "correlation": 0.4124883253960458,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "SBIN.NS",
+            "target": "TMPV.NS",
+            "weight": 0.4104899056329138,
+            "relationship_type": "correlation",
+            "correlation": 0.4104899056329138,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "SBIN.NS",
+            "target": "INR=X",
+            "weight": 0.1237310825957255,
+            "relationship_type": "lagged",
+            "correlation": null,
+            "lag_strength": 0.1237310825957255,
+            "lag_correlation": -0.1237310825957255,
+            "best_lag": 1
+        },
+        {
+            "source": "AXISBANK.NS",
+            "target": "^NSEBANK",
+            "weight": 0.7499013589094095,
+            "relationship_type": "correlation",
+            "correlation": 0.7499013589094095,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "AXISBANK.NS",
+            "target": "^NSEI",
+            "weight": 0.6234557890912761,
+            "relationship_type": "correlation",
+            "correlation": 0.6234557890912761,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "AXISBANK.NS",
+            "target": "ICICIBANK.NS",
+            "weight": 0.613454040601047,
+            "relationship_type": "correlation",
+            "correlation": 0.613454040601047,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "AXISBANK.NS",
+            "target": "SBIN.NS",
+            "weight": 0.545243903864372,
+            "relationship_type": "correlation",
+            "correlation": 0.545243903864372,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "AXISBANK.NS",
+            "target": "HDFCBANK.NS",
+            "weight": 0.46021215446993713,
+            "relationship_type": "correlation",
+            "correlation": 0.46021215446993713,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "AXISBANK.NS",
+            "target": "DLF.NS",
+            "weight": 0.44863675293683075,
+            "relationship_type": "correlation",
+            "correlation": 0.44863675293683075,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "AXISBANK.NS",
+            "target": "BAJAJFINSV.NS",
+            "weight": 0.43738460289531816,
+            "relationship_type": "correlation",
+            "correlation": 0.43738460289531816,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "AXISBANK.NS",
+            "target": "BAJFINANCE.NS",
+            "weight": 0.41868805189598046,
+            "relationship_type": "correlation",
+            "correlation": 0.41868805189598046,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "TCS.NS",
+            "target": "INFY.NS",
+            "weight": 0.7201836318271244,
+            "relationship_type": "correlation",
+            "correlation": 0.7201836318271244,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "TCS.NS",
+            "target": "HCLTECH.NS",
+            "weight": 0.6667515936638665,
+            "relationship_type": "correlation",
+            "correlation": 0.6667515936638665,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "TCS.NS",
+            "target": "WIPRO.NS",
+            "weight": 0.6091806458580048,
+            "relationship_type": "correlation",
+            "correlation": 0.6091806458580048,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "TCS.NS",
+            "target": "^NSEI",
+            "weight": 0.4954410470058159,
+            "relationship_type": "correlation",
+            "correlation": 0.4954410470058159,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "INFY.NS",
+            "target": "TCS.NS",
+            "weight": 0.7201836318271244,
+            "relationship_type": "correlation",
+            "correlation": 0.7201836318271244,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "INFY.NS",
+            "target": "HCLTECH.NS",
+            "weight": 0.692097957905166,
+            "relationship_type": "correlation",
+            "correlation": 0.692097957905166,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "INFY.NS",
+            "target": "WIPRO.NS",
+            "weight": 0.6271067249092726,
+            "relationship_type": "correlation",
+            "correlation": 0.6271067249092726,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "INFY.NS",
+            "target": "^NSEI",
+            "weight": 0.5172992203315149,
+            "relationship_type": "correlation",
+            "correlation": 0.5172992203315149,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "HCLTECH.NS",
+            "target": "INFY.NS",
+            "weight": 0.692097957905166,
+            "relationship_type": "correlation",
+            "correlation": 0.692097957905166,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "HCLTECH.NS",
+            "target": "TCS.NS",
+            "weight": 0.6667515936638665,
+            "relationship_type": "correlation",
+            "correlation": 0.6667515936638665,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "HCLTECH.NS",
+            "target": "WIPRO.NS",
+            "weight": 0.5931337869817648,
+            "relationship_type": "correlation",
+            "correlation": 0.5931337869817648,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "HCLTECH.NS",
+            "target": "^NSEI",
+            "weight": 0.4869955571379644,
+            "relationship_type": "correlation",
+            "correlation": 0.4869955571379644,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "WIPRO.NS",
+            "target": "INFY.NS",
+            "weight": 0.6271067249092726,
+            "relationship_type": "correlation",
+            "correlation": 0.6271067249092726,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "WIPRO.NS",
+            "target": "TCS.NS",
+            "weight": 0.6091806458580048,
+            "relationship_type": "correlation",
+            "correlation": 0.6091806458580048,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "WIPRO.NS",
+            "target": "HCLTECH.NS",
+            "weight": 0.5931337869817648,
+            "relationship_type": "correlation",
+            "correlation": 0.5931337869817648,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "WIPRO.NS",
+            "target": "^NSEI",
+            "weight": 0.5277434950499413,
+            "relationship_type": "correlation",
+            "correlation": 0.5277434950499413,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "RELIANCE.NS",
+            "target": "^NSEI",
+            "weight": 0.6757367216336178,
+            "relationship_type": "correlation",
+            "correlation": 0.6757367216336178,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "RELIANCE.NS",
+            "target": "^NSEBANK",
+            "weight": 0.4919394606729866,
+            "relationship_type": "correlation",
+            "correlation": 0.4919394606729866,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "RELIANCE.NS",
+            "target": "DLF.NS",
+            "weight": 0.4302473357119399,
+            "relationship_type": "correlation",
+            "correlation": 0.4302473357119399,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "RELIANCE.NS",
+            "target": "SBIN.NS",
+            "weight": 0.4124883253960458,
+            "relationship_type": "correlation",
+            "correlation": 0.4124883253960458,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "RELIANCE.NS",
+            "target": "INR=X",
+            "weight": 0.11182503040132868,
+            "relationship_type": "lagged",
+            "correlation": null,
+            "lag_strength": 0.11182503040132868,
+            "lag_correlation": -0.11182503040132868,
+            "best_lag": 1
+        },
+        {
+            "source": "TMPV.NS",
+            "target": "^NSEI",
+            "weight": 0.572079068750883,
+            "relationship_type": "correlation",
+            "correlation": 0.572079068750883,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "TMPV.NS",
+            "target": "DLF.NS",
+            "weight": 0.5070862210885546,
+            "relationship_type": "correlation",
+            "correlation": 0.5070862210885546,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "TMPV.NS",
+            "target": "M&M.NS",
+            "weight": 0.4918195569616258,
+            "relationship_type": "correlation",
+            "correlation": 0.4918195569616258,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "TMPV.NS",
+            "target": "^NSEBANK",
+            "weight": 0.46662919020636956,
+            "relationship_type": "correlation",
+            "correlation": 0.46662919020636956,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "TMPV.NS",
+            "target": "MARUTI.NS",
+            "weight": 0.42519799597769,
+            "relationship_type": "correlation",
+            "correlation": 0.42519799597769,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "TMPV.NS",
+            "target": "GODREJPROP.NS",
+            "weight": 0.4244688147240686,
+            "relationship_type": "correlation",
+            "correlation": 0.4244688147240686,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "TMPV.NS",
+            "target": "SBIN.NS",
+            "weight": 0.4104899056329138,
+            "relationship_type": "correlation",
+            "correlation": 0.4104899056329138,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "TMPV.NS",
+            "target": "INR=X",
+            "weight": 0.1112160414773802,
+            "relationship_type": "lagged",
+            "correlation": null,
+            "lag_strength": 0.1112160414773802,
+            "lag_correlation": -0.1112160414773802,
+            "best_lag": 1
+        },
+        {
+            "source": "M&M.NS",
+            "target": "^NSEI",
+            "weight": 0.5875194839192771,
+            "relationship_type": "correlation",
+            "correlation": 0.5875194839192771,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "M&M.NS",
+            "target": "TMPV.NS",
+            "weight": 0.4918195569616258,
+            "relationship_type": "correlation",
+            "correlation": 0.4918195569616258,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "M&M.NS",
+            "target": "^NSEBANK",
+            "weight": 0.4914602709114511,
+            "relationship_type": "correlation",
+            "correlation": 0.4914602709114511,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "M&M.NS",
+            "target": "MARUTI.NS",
+            "weight": 0.48288320615235325,
+            "relationship_type": "correlation",
+            "correlation": 0.48288320615235325,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "M&M.NS",
+            "target": "DLF.NS",
+            "weight": 0.4382926989894737,
+            "relationship_type": "correlation",
+            "correlation": 0.4382926989894737,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "M&M.NS",
+            "target": "BAJAJFINSV.NS",
+            "weight": 0.40386389198720524,
+            "relationship_type": "correlation",
+            "correlation": 0.40386389198720524,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "MARUTI.NS",
+            "target": "^NSEI",
+            "weight": 0.512368391886644,
+            "relationship_type": "correlation",
+            "correlation": 0.512368391886644,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "MARUTI.NS",
+            "target": "M&M.NS",
+            "weight": 0.48288320615235325,
+            "relationship_type": "correlation",
+            "correlation": 0.48288320615235325,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "MARUTI.NS",
+            "target": "^NSEBANK",
+            "weight": 0.42767618872949487,
+            "relationship_type": "correlation",
+            "correlation": 0.42767618872949487,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "MARUTI.NS",
+            "target": "TMPV.NS",
+            "weight": 0.42519799597769,
+            "relationship_type": "correlation",
+            "correlation": 0.42519799597769,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "DLF.NS",
+            "target": "GODREJPROP.NS",
+            "weight": 0.703059249476117,
+            "relationship_type": "correlation",
+            "correlation": 0.703059249476117,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "DLF.NS",
+            "target": "^NSEI",
+            "weight": 0.6646746683758347,
+            "relationship_type": "correlation",
+            "correlation": 0.6646746683758347,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "DLF.NS",
+            "target": "^NSEBANK",
+            "weight": 0.6121201119926072,
+            "relationship_type": "correlation",
+            "correlation": 0.6121201119926072,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "DLF.NS",
+            "target": "SBIN.NS",
+            "weight": 0.5517564105983596,
+            "relationship_type": "correlation",
+            "correlation": 0.5517564105983596,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "DLF.NS",
+            "target": "TMPV.NS",
+            "weight": 0.5070862210885546,
+            "relationship_type": "correlation",
+            "correlation": 0.5070862210885546,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "DLF.NS",
+            "target": "BAJAJFINSV.NS",
+            "weight": 0.4750691518687857,
+            "relationship_type": "correlation",
+            "correlation": 0.4750691518687857,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "DLF.NS",
+            "target": "ICICIBANK.NS",
+            "weight": 0.46117166256674597,
+            "relationship_type": "correlation",
+            "correlation": 0.46117166256674597,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "DLF.NS",
+            "target": "BAJFINANCE.NS",
+            "weight": 0.4525926076553232,
+            "relationship_type": "correlation",
+            "correlation": 0.4525926076553232,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "DLF.NS",
+            "target": "AXISBANK.NS",
+            "weight": 0.44863675293683075,
+            "relationship_type": "correlation",
+            "correlation": 0.44863675293683075,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "DLF.NS",
+            "target": "M&M.NS",
+            "weight": 0.4382926989894737,
+            "relationship_type": "correlation",
+            "correlation": 0.4382926989894737,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "DLF.NS",
+            "target": "RELIANCE.NS",
+            "weight": 0.4302473357119399,
+            "relationship_type": "correlation",
+            "correlation": 0.4302473357119399,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "DLF.NS",
+            "target": "HDFCBANK.NS",
+            "weight": 0.41176263820050274,
+            "relationship_type": "correlation",
+            "correlation": 0.41176263820050274,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "DLF.NS",
+            "target": "INR=X",
+            "weight": 0.12888696595344631,
+            "relationship_type": "lagged",
+            "correlation": null,
+            "lag_strength": 0.12888696595344631,
+            "lag_correlation": -0.12888696595344631,
+            "best_lag": 1
+        },
+        {
+            "source": "GODREJPROP.NS",
+            "target": "DLF.NS",
+            "weight": 0.703059249476117,
+            "relationship_type": "correlation",
+            "correlation": 0.703059249476117,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "GODREJPROP.NS",
+            "target": "^NSEI",
+            "weight": 0.5790139165822273,
+            "relationship_type": "correlation",
+            "correlation": 0.5790139165822273,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "GODREJPROP.NS",
+            "target": "^NSEBANK",
+            "weight": 0.4991604001302331,
+            "relationship_type": "correlation",
+            "correlation": 0.4991604001302331,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "GODREJPROP.NS",
+            "target": "SBIN.NS",
+            "weight": 0.43528416724515245,
+            "relationship_type": "correlation",
+            "correlation": 0.43528416724515245,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "GODREJPROP.NS",
+            "target": "TMPV.NS",
+            "weight": 0.4244688147240686,
+            "relationship_type": "correlation",
+            "correlation": 0.4244688147240686,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "GODREJPROP.NS",
+            "target": "BAJAJFINSV.NS",
+            "weight": 0.4123183662171791,
+            "relationship_type": "correlation",
+            "correlation": 0.4123183662171791,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "GODREJPROP.NS",
+            "target": "BAJFINANCE.NS",
+            "weight": 0.40482794964299834,
+            "relationship_type": "correlation",
+            "correlation": 0.40482794964299834,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "GODREJPROP.NS",
+            "target": "INR=X",
+            "weight": 0.13211937707208213,
+            "relationship_type": "lagged",
+            "correlation": null,
+            "lag_strength": 0.13211937707208213,
+            "lag_correlation": -0.13211937707208213,
+            "best_lag": 1
+        },
+        {
+            "source": "ITC.NS",
+            "target": "^NSEI",
+            "weight": 0.4516433517217829,
+            "relationship_type": "correlation",
+            "correlation": 0.4516433517217829,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "BAJFINANCE.NS",
+            "target": "BAJAJFINSV.NS",
+            "weight": 0.7796695089681975,
+            "relationship_type": "correlation",
+            "correlation": 0.7796695089681975,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "BAJFINANCE.NS",
+            "target": "^NSEI",
+            "weight": 0.6273961007555183,
+            "relationship_type": "correlation",
+            "correlation": 0.6273961007555183,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "BAJFINANCE.NS",
+            "target": "^NSEBANK",
+            "weight": 0.5806579870600905,
+            "relationship_type": "correlation",
+            "correlation": 0.5806579870600905,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "BAJFINANCE.NS",
+            "target": "DLF.NS",
+            "weight": 0.4525926076553232,
+            "relationship_type": "correlation",
+            "correlation": 0.4525926076553232,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "BAJFINANCE.NS",
+            "target": "ICICIBANK.NS",
+            "weight": 0.4487210247528731,
+            "relationship_type": "correlation",
+            "correlation": 0.4487210247528731,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "BAJFINANCE.NS",
+            "target": "HDFCBANK.NS",
+            "weight": 0.43779330870808497,
+            "relationship_type": "correlation",
+            "correlation": 0.43779330870808497,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "BAJFINANCE.NS",
+            "target": "SBIN.NS",
+            "weight": 0.4352362745415217,
+            "relationship_type": "correlation",
+            "correlation": 0.4352362745415217,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "BAJFINANCE.NS",
+            "target": "AXISBANK.NS",
+            "weight": 0.41868805189598046,
+            "relationship_type": "correlation",
+            "correlation": 0.41868805189598046,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "BAJFINANCE.NS",
+            "target": "GODREJPROP.NS",
+            "weight": 0.40482794964299834,
+            "relationship_type": "correlation",
+            "correlation": 0.40482794964299834,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "BAJAJFINSV.NS",
+            "target": "BAJFINANCE.NS",
+            "weight": 0.7796695089681975,
+            "relationship_type": "correlation",
+            "correlation": 0.7796695089681975,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "BAJAJFINSV.NS",
+            "target": "^NSEI",
+            "weight": 0.6364417700966231,
+            "relationship_type": "correlation",
+            "correlation": 0.6364417700966231,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "BAJAJFINSV.NS",
+            "target": "^NSEBANK",
+            "weight": 0.5745560766334992,
+            "relationship_type": "correlation",
+            "correlation": 0.5745560766334992,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "BAJAJFINSV.NS",
+            "target": "DLF.NS",
+            "weight": 0.4750691518687857,
+            "relationship_type": "correlation",
+            "correlation": 0.4750691518687857,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "BAJAJFINSV.NS",
+            "target": "ICICIBANK.NS",
+            "weight": 0.4495208552078728,
+            "relationship_type": "correlation",
+            "correlation": 0.4495208552078728,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "BAJAJFINSV.NS",
+            "target": "AXISBANK.NS",
+            "weight": 0.43738460289531816,
+            "relationship_type": "correlation",
+            "correlation": 0.43738460289531816,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "BAJAJFINSV.NS",
+            "target": "SBIN.NS",
+            "weight": 0.43170338790305524,
+            "relationship_type": "correlation",
+            "correlation": 0.43170338790305524,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "BAJAJFINSV.NS",
+            "target": "GODREJPROP.NS",
+            "weight": 0.4123183662171791,
+            "relationship_type": "correlation",
+            "correlation": 0.4123183662171791,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "BAJAJFINSV.NS",
+            "target": "HDFCBANK.NS",
+            "weight": 0.4064743926071697,
+            "relationship_type": "correlation",
+            "correlation": 0.4064743926071697,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "BAJAJFINSV.NS",
+            "target": "M&M.NS",
+            "weight": 0.40386389198720524,
+            "relationship_type": "correlation",
+            "correlation": 0.40386389198720524,
+            "lag_strength": null,
+            "lag_correlation": null,
+            "best_lag": null
+        },
+        {
+            "source": "BAJAJFINSV.NS",
+            "target": "INR=X",
+            "weight": 0.10858812874192732,
+            "relationship_type": "lagged",
+            "correlation": null,
+            "lag_strength": 0.10858812874192732,
+            "lag_correlation": -0.10858812874192732,
+            "best_lag": 1
+        }
+    ]
+}

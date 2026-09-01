@@ -1,0 +1,27 @@
+ticker,name,type,sector
+^NSEI,NIFTY 50,Index,Market
+^NSEBANK,Bank Nifty,Index,Banking
+INR=X,USD/INR,Currency,Macro
+CL=F,Crude Oil,Commodity,Energy
+GC=F,Gold,Commodity,Safe Haven
+HDFCBANK.NS,HDFC Bank,Company,Banking
+ICICIBANK.NS,ICICI Bank,Company,Banking
+SBIN.NS,SBI,Company,Banking
+AXISBANK.NS,Axis Bank,Company,Banking
+TCS.NS,TCS,Company,IT
+INFY.NS,Infosys,Company,IT
+HCLTECH.NS,HCL Tech,Company,IT
+WIPRO.NS,Wipro,Company,IT
+RELIANCE.NS,Reliance,Company,Energy
+ONGC.NS,ONGC,Company,Energy
+TMPV.NS,Tata Motors Passenger Vehicles,Company,Auto
+M&M.NS,Mahindra & Mahindra,Company,Auto
+MARUTI.NS,Maruti Suzuki,Company,Auto
+DLF.NS,DLF,Company,Realty
+GODREJPROP.NS,Godrej Properties,Company,Realty
+SUNPHARMA.NS,Sun Pharma,Company,Pharma
+DRREDDY.NS,Dr Reddy's,Company,Pharma
+HINDUNILVR.NS,Hindustan Unilever,Company,FMCG
+ITC.NS,ITC,Company,FMCG
+BAJFINANCE.NS,Bajaj Finance,Company,NBFC
+BAJAJFINSV.NS,Bajaj Finserv,Company,NBFC

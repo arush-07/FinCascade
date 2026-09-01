@@ -1,0 +1,32 @@
+{
+  "Oil Crash": {
+    "CL=F": -0.2
+  },
+  "Banking Crisis": {
+    "^NSEBANK": -0.15,
+    "HDFCBANK.NS": -0.1,
+    "ICICIBANK.NS": -0.1,
+    "SBIN.NS": -0.1,
+    "AXISBANK.NS": -0.1
+  },
+  "Tech Crash": {
+    "TCS.NS": -0.15,
+    "INFY.NS": -0.15,
+    "HCLTECH.NS": -0.15,
+    "WIPRO.NS": -0.15
+  },
+  "Market Crash": {
+    "^NSEI": -0.12,
+    "^NSEBANK": -0.15
+  },
+  "Currency Shock": {
+    "INR=X": 0.08
+  },
+  "Rate Hike Proxy": {
+    "^NSEBANK": -0.08,
+    "BAJFINANCE.NS": -0.1,
+    "BAJAJFINSV.NS": -0.1,
+    "DLF.NS": -0.1,
+    "GODREJPROP.NS": -0.1
+  }
+}

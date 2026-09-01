@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+pydantic
+pandas
+numpy
+scikit-learn
+networkx
+joblib
+matplotlib
+xgboost
+yfinance
+statsmodels

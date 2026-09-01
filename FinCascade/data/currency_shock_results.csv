@@ -1,0 +1,27 @@
+ticker,shock,name,sector,shock_pct,absolute_impact_pct
+INR=X,0.08,USD/INR,Macro,8.0,8.0
+^NSEI,0.0,NIFTY 50,Market,0.0,0.0
+^NSEBANK,0.0,Bank Nifty,Banking,0.0,0.0
+CL=F,0.0,Crude Oil,Energy,0.0,0.0
+GC=F,0.0,Gold,Safe Haven,0.0,0.0
+HDFCBANK.NS,0.0,HDFC Bank,Banking,0.0,0.0
+ICICIBANK.NS,0.0,ICICI Bank,Banking,0.0,0.0
+SBIN.NS,0.0,SBI,Banking,0.0,0.0
+AXISBANK.NS,0.0,Axis Bank,Banking,0.0,0.0
+TCS.NS,0.0,TCS,IT,0.0,0.0
+INFY.NS,0.0,Infosys,IT,0.0,0.0
+HCLTECH.NS,0.0,HCL Tech,IT,0.0,0.0
+WIPRO.NS,0.0,Wipro,IT,0.0,0.0
+RELIANCE.NS,0.0,Reliance,Energy,0.0,0.0
+ONGC.NS,0.0,ONGC,Energy,0.0,0.0
+TMPV.NS,0.0,Tata Motors Passenger Vehicles,Auto,0.0,0.0
+M&M.NS,0.0,Mahindra & Mahindra,Auto,0.0,0.0
+MARUTI.NS,0.0,Maruti Suzuki,Auto,0.0,0.0
+DLF.NS,0.0,DLF,Realty,0.0,0.0
+GODREJPROP.NS,0.0,Godrej Properties,Realty,0.0,0.0
+SUNPHARMA.NS,0.0,Sun Pharma,Pharma,0.0,0.0
+DRREDDY.NS,0.0,Dr Reddy's,Pharma,0.0,0.0
+HINDUNILVR.NS,0.0,Hindustan Unilever,FMCG,0.0,0.0
+ITC.NS,0.0,ITC,FMCG,0.0,0.0
+BAJFINANCE.NS,0.0,Bajaj Finance,NBFC,0.0,0.0
+BAJAJFINSV.NS,0.0,Bajaj Finserv,NBFC,0.0,0.0
